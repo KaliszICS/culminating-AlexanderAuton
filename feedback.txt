@@ -1,0 +1,14 @@
+K(30%): 80
+I(30%): 60
+C(10%): 60
+A(30%): 50
+63%
+
+You're missing functions but do have all other requirements at a minimum.
+You're missing comments.
+
+You had a decent start and some good ideas.
+When working with code you're less familiar with (graphics), focus on getting things working at the most basic level first.
+
+The time was the least important thing your code.  A working version can exist without it.  But creating a simple layout was much more important and something you should look at prioritizing in the future.
+Nice attempt, remember to spend a bit more time on it in the future when you have culminating periods!
